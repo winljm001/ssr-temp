@@ -1,3 +1,11 @@
+## features
+
+- [x] tailwindcss
+- [x] 切换主题
+- [ ] 请求接口
+- [ ] 响应式部署方案
+- [ ] 部署到 Vercel
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

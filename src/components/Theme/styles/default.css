@@ -1,0 +1,10 @@
+:root{    
+  --color-main: 61, 61, 61;
+  --color-purple: 103, 102, 201;
+  --color-red: 255, 46, 133;
+  --color-blue: 42, 152, 254;
+  --color-gray: 235, 235, 235;
+  --color-link: 123, 122, 255;
+  --color-bg-main: 255, 255, 255;
+  --resource-bg-switch:url('/vercel.svg');
+}
